@@ -54,8 +54,9 @@ J'ai utilisé [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-u
 
 <br/><br/><br/><br/><br/>
 
-* C'est le premier des deux qui apparaissent dans ma liste, le second ne veut pas se sélectionner...
-<br/><br/><br/><br/><br/><br/><br/>
+* C'est le premier des deux qui apparaissent dans ma liste, le second ne veut pas se sélectionner...<br/><br/>
+  _Pour modifier un clavier AZERTY windows classique, choisissez le clavier Français dans la liste :_
+  ![](https://raw.githubusercontent.com/MilesTEG1/Majuscules_Accentuees_clavier_Windows/main/Screenshots/18.png)
 
 ## 2.3. Modification du layout du clavier importé
 
