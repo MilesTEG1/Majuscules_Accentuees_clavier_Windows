@@ -1,0 +1,16 @@
+    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_N, ShiftState 'Ctl+Alt' and VK_2, ShiftState 'Ctl+Alt').
+    WARNING: € (U+20ac) is already defined more than once on the keyboard (on VK_OEM_1, ShiftState 'Ctl+Alt' and VK_E, ShiftState 'Ctl+Alt').
+    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_5, ShiftState 'Base' and VK_7, ShiftState 'Ctl+Alt').
+    WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Base' and VK_9, ShiftState 'Ctl+Alt').
+    WARNING: @ (U+0040) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Base' and VK_0, ShiftState 'Ctl+Alt').
+    WARNING: # (U+0023) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
+    WARNING: '<' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: Caps Lock is set between '&' and '1' (VK_1, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '"' and '3' (VK_3, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between ''' and '4' (VK_4, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '(' and '5' (VK_5, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '§' and '6' (VK_6, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '!' and '8' (VK_8, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '-' and '_' (VK_OEM_PLUS, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between ')' and '°' (VK_OEM_4, ShiftStates 'Base' and 'Shift').
