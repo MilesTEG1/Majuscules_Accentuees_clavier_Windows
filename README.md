@@ -13,7 +13,7 @@ L'objectif de ce qui suit est d'avoir les majuscules accentuées suivantes **[ �
   - [2.3. Sauvegarde du layout du clavier personnalisé](#23-sauvegarde-du-layout-du-clavier-personnalisé)
   - [2.4. Installation du layout du clavier personnalisé](#24-installation-du-layout-du-clavier-personnalisé)
   - [3. Fin](#3-fin)
-  - [4. Addendum - Réaffectation de touches avec SharpKeys](#4-addendum---réaffectation-de-touches-avec-sharpkeys)
+- [4. Addendum - Réaffectation de touches avec SharpKeys](#4-addendum---réaffectation-de-touches-avec-sharpkeys)
 
 # 1. Introduction
 
@@ -132,6 +132,6 @@ Voilà, j'espère que tout ceci vous aura été utile :smiley:.
 
 
 
-## 4. Addendum - Réaffectation de touches avec SharpKeys
+# 4. Addendum - Réaffectation de touches avec SharpKeys
 
 Pour cela, je vous invite à aller voir cet autre tuto : [https://github.com/MilesTEG1/Logitech-MX-Keys-for-mac--avec-Windows](https://github.com/MilesTEG1/Logitech-MX-Keys-for-mac--avec-Windows)
