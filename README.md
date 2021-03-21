@@ -22,7 +22,8 @@ J'aime bien avoir des fonctionnement similaire sur mon pc windows et sur mon mac
 J'ai réussi à faire en sorte que ça fonctionne, et je pense que ça pourrait servir à certains.
 
 Comme j'utilisais un clavier Apple filaire MB110F (avec pavé numérique) sous windows, j'ai du installer les pilotes du clavier apple avec BootCamp. Tout fonctionnait bien pendant plusieurs années, sauf les Majuscules Accentuées... Je n'ai jamais pris le temps de chercher une solution...
-Mais comme j'ai récemment acheté un [Logitech MX Keys for Mac](https://www.logitech.fr/fr-fr/products/keyboards/mx-keys-mac-wireless-keyboard.html?crid=27) (car je préfère le layout des claviers mac à celui des PC, et j'utilise depuis longtemps un clavier apple avec windows, en parallèle d'un Macbook Air), j'ai du corriger un soucis d'affectation de touches (la touche @ et > sont interverties quand on les frappe...: voir photo ci-dessous)
+Mais comme j'ai récemment acheté un [Logitech MX Keys for Mac](https://www.logitech.fr/fr-fr/products/keyboards/mx-keys-mac-wireless-keyboard.html?crid=27) (car je préfère le layout des claviers mac à celui des PC, et j'utilise depuis longtemps un clavier apple avec windows, en parallèle d'un Macbook Air), j'ai du corriger un soucis d'affectation de touches (la touche @ et > sont interverties quand on les frappe...: voir photo ci-dessous et le [§4. Addendum - Réaffectation de touches avec SharpKeys](#4-addendum---réaffectation-de-touches-avec-sharpkeys)
+) en fin de tuto.
 
 [<img src="https://raw.githubusercontent.com/MilesTEG1/Majuscules_Accentuees_clavier_Windows/main/Screenshots/touches-interverties.png" width="100" />](https://raw.githubusercontent.com/MilesTEG1/Majuscules_Accentuees_clavier_Windows/main/Screenshots/touches-interverties.png)
 
